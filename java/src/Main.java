@@ -2,7 +2,8 @@ public class Main {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++){
             System.out.print("Это добавлено в ветке dev");
-            if (i == 3) break;
+            if (i == 3) {break;}
+            else {System.out.print("Это добавлено в ветке dev");}
         }
     }
 }
