@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f6cf563-2757-4495-b3f4-7a4bc7c9eaca" name="Changes" comment="Add else condition" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WzMQd6RsYR2OPVVLOGio3d7eRZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="branches" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="branches" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f6cf563-2757-4495-b3f4-7a4bc7c9eaca" name="Changes" comment="" />
+      <created>1697730941193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697730941193</updated>
+      <workItem from="1697730943709" duration="2191000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update README.md from IDE">
+      <created>1697731023434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697731023434</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create Main.java from IDE">
+      <created>1697731221977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697731221977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add scanner">
+      <created>1697731316831</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697731316831</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create calc(int, int)">
+      <created>1697731552918</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697731552918</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix error">
+      <created>1697731608589</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697731608589</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add output">
+      <created>1697731661611</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697731661611</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update README.md from dev">
+      <created>1697732532283</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697732532283</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Create Main.java">
+      <created>1697732743653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697732743653</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add loop">
+      <created>1697732839054</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697732839054</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add if condition">
+      <created>1697732900658</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697732900658</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add else condition">
+      <created>1697732958437</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697732958437</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update README.md from IDE" />
+    <MESSAGE value="Create Main.java from IDE" />
+    <MESSAGE value="Add scanner" />
+    <MESSAGE value="Add method func()" />
+    <MESSAGE value="Change func() to calc(int, int)" />
+    <MESSAGE value="Create calc(int, int)" />
+    <MESSAGE value="Fix error" />
+    <MESSAGE value="Add output" />
+    <MESSAGE value="Merge conflict" />
+    <MESSAGE value="Update README.md from dev" />
+    <MESSAGE value="Create Main.java" />
+    <MESSAGE value="Add loop" />
+    <MESSAGE value="Add if condition" />
+    <MESSAGE value="Add else condition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add else condition" />
+  </component>
+</project>
